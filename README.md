@@ -36,7 +36,7 @@ const aditya = {
 
 Full-stack MERN food delivery app with authentication, Razorpay integration, admin panel, and responsive design.
 
-<a href="https://github.com/AdityaPatil1510/food-express">
+<a href="[https://github.com/AdityaPatil1510/food-express](https://github.com/AdityaPatil1510/food-express)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaPatil1510&repo=food-express&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="food-express repo card" />
 </a>
 
